@@ -4,10 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently \"npm run watch\" \"npm run dev\"",
-    "dev": "lite-server",
-    "build": "node-sass --include-path scss scss/main.scss assets/main.css",
-    "watch": "nodemon -e scss -x \"npm run build\""
+    "dev": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -20,9 +17,6 @@
   },
   "homepage": "https://github.com/madhankumar028/personal-site#readme",
   "devDependencies": {
-    "concurrently": "^3.3.0",
-    "lite-server": "^2.2.2",
-    "node-sass": "^4.5.0",
-    "nodemon": "^1.11.0"
+    "lite-server": "^2.2.2"
   }
 }
