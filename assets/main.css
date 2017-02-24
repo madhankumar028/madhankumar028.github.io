@@ -6,7 +6,7 @@ body {
 p {font-size: 16px;}
 .margin {margin-bottom: 45px;}
 .bg-1 { 
-    background-color: #1abc9c; /* Green */
+    background-color: grey; /* Green */
     color: #ffffff;
 }
 .bg-2 { 
@@ -34,8 +34,13 @@ p {font-size: 16px;}
     font-size: 12px;
     letter-spacing: 5px;
 }
+.navbar a:hover {
+    margin: 0px;
+    color: skyblue !important;
+    text-decoration: none;
+}
 .navbar-nav  li a:hover {
-    color: #1abc9c !important;
+    color: skyblue !important;
 }
 .progress {
     width: 500px;
