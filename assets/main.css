@@ -6,7 +6,7 @@ body {
 p {font-size: 16px;}
 .margin {margin-bottom: 45px;}
 .bg-1 { 
-    background-color: grey; /* Green */
+    background-color: violet; /* Green */
     color: #ffffff;
 }
 .bg-2 { 
@@ -18,7 +18,7 @@ p {font-size: 16px;}
     color: #555555;
 }
 .bg-4 { 
-    background-color: #2f2f2f; /* Black Gray */
+    background-color: lavenderblush; /* Black Gray */
     color: #fff;
 }
 .container-fluid {
@@ -48,9 +48,16 @@ p {font-size: 16px;}
 .techstack li {
     list-style: none;
 }
+.tools {
+    text-align: center;
+    background-color: grey;
+}
+.tools li {
+    list-style: none;
+}
 .social a {
     margin-right: 20px;
-    font-size: 32px;
+    font-size: 28px;
     text-decoration: none;
 }
 .pet:hover {
