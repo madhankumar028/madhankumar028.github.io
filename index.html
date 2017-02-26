@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="assets/main.css">
 </head>
 
@@ -26,7 +27,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#projects">Projects</a></li>
         <li><a href="#skills">Skills</a></li>
-        <li><a href="#blogs">Blogs</a></li>
+        <li><a href="https://pub.scotch.io/@madhankumar028">Blogs</a></li>
       </ul>
     </div>
   </div>
@@ -34,55 +35,62 @@
 
 <div id="bio" class="container-fluid bg-1 text-center">
   <h3 class="margin">Who Am I?</h3>
-  <img src="assets/img/madhan.png" class="img-responsive img-circle margin" style="display:inline" alt="Bird" width="150" height="150">
+  <img src="assets/img/madhan.png" class="img-responsive img-circle margin"
+  style="display:inline" alt="Bird" width="150" height="150">
   <h3>I'm a developer | Blogger | I <span class="element"></span></h3>
 </div>
 
-<div id="projects"class="container-fluid bg-3 text-center">    
+<div id="projects" class="container-fluid bg-3 text-center">    
+  <p>My Recent Pet Projects</p>
   <h3 class="margin">What I did?</h3><br>
   <div class="row">
-    <div class="col-sm-4"> 
-      <img src="assets/img/github.png" class="img-circle margin" alt="Image">
+    <div class="col-sm-4 pet"> 
+      <img src="assets/img/github.png" href="https://github.com/githubclient"
+      class="img-circle margin" alt="Image">
       <h3>GithubClient</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua.
+      <p>
+          Githubclient app, used to collect the basic info of a github user.
+          Developed using angular1.3.
       </p>
     </div>
-    <div class="col-sm-4"> 
-      <img src="assets/img/Angular.png" class="img-circle margin" alt="Image">
+    <div class="col-sm-4 pet"> 
+      <img src="assets/img/Angular.png" href="https://github.com/Angular2-Todo"
+      class="img-circle margin" alt="Image">
       <h3>Angular2-Todo</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua.
+      <p>
+          Angular2-todo app. Developed using angular2.0.
       </p>
     </div>
-    <div class="col-sm-4"> 
-      <img src="assets/img/Angular.png" class="img-circle margin" alt="Image">
+    <div class="col-sm-4 pet"> 
+      <img src="assets/img/Angular.png" href="https://github.com/Angular2-Router"
+      class="img-circle margin" alt="Image">
       <h3>Angular2-Router</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua.
+      <p>Angular2-router app. Developed using angular2.0 and angular-cli.
       </p>
     </div>
-    <div class="col-sm-4"> 
-      <img src="assets/img/maddy.png" class="img-circle margin" alt="Image">
+    <div class="col-sm-4 pet"> 
+      <img src="assets/img/maddy.png" href="https://github.com/Personal-site"
+      class="img-circle margin" alt="Image">
       <h3>Personal-site</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua.
+      <p>
+          Personal-site for me. Developed using html, css.
       </p>
     </div>
-    <div class="col-sm-4">
-      <img src="assets/img/maddy.png" class="img-circle margin" alt="Image">
-      <h3>
-          <a href="">Portfolio</a>
-      </h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua.
+    <div class="col-sm-4 pet">
+      <img src="assets/img/maddy.png" href="https://github.com/Portfolio"
+      class="img-circle margin" alt="Image">
+      <h3>Portfolio</h3>
+      <p>
+          Portfolio for me. Developed using html5, sass, bootstrap.
       </p>
     </div>
-    <div class="col-sm-4"> 
-      <img src="assets/img/JS.png" class="img-circle margin" alt="Image">
+    <div class="col-sm-4 pet"> 
+      <img src="assets/img/JS.png" href="https://github.com/i18n-using-AngularJS"
+      class="img-circle margin" alt="Image">
       <h3>I18N</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua.
+      <p>
+          Internationalization app for both English and Japanese. Developed using
+          Pascal's angular module.
       </p>
     </div>
   </div>
@@ -147,7 +155,13 @@
 </div>
 
 <footer id="footer" class="container-fluid bg-4 text-center">
-    
+    <h3>Find me</h3><br>
+    <div class="social">
+        <a class="fa fa-facebook" href="https://fb.com/madddymadhan"></a>
+        <a class="fa fa-twitter" href="https://twitter.com/madddyrules"></a>
+        <a class="fa fa-linkedin" href="https://linkedin.com/madddymadhan"></a>
+        <a class="fa fa-google" href="mailto:madhankumar028@gmail.com"></a>
+    </div>    
 </footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -156,7 +170,7 @@
 <script>
     $(function() {
         $(".element").typed({
-            strings: ["am a Passionate Javascript developer", "am a keyboard guy", "Read blogs", "Write Code"],
+            strings: ["Love Javascript", "am a keyboard guy", "Read blogs", "Write Code"],
             typeSpeed: 0,
             loop:true
         });

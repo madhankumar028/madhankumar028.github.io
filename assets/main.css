@@ -48,3 +48,11 @@ p {font-size: 16px;}
 .techstack li {
     list-style: none;
 }
+.social a {
+    margin-right: 20px;
+    font-size: 32px;
+    text-decoration: none;
+}
+.pet:hover {
+    background-color: lightgrey;
+}
