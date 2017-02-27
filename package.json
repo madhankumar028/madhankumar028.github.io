@@ -1,5 +1,5 @@
 {
-  "name": "personal-site",
+  "name": "madhankumar028.github.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madhankumar028/personal-site.git"
+    "url": "git+https://github.com/madhankumar028/madhankumar028.github.io.git"
   },
   "author": "MadhankumarJ",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/madhankumar028/personal-site/issues"
+    "url": "https://github.com/madhankumar028/madhankumar028.github.io/issues"
   },
-  "homepage": "https://github.com/madhankumar028/personal-site#readme",
+  "homepage": "https://github.com/madhankumar028/madhankumar028.github.io#readme",
   "devDependencies": {
     "lite-server": "^2.2.2"
   }
