@@ -6,8 +6,7 @@ body {
 p {font-size: 16px;}
 .margin {margin-bottom: 45px;}
 .bg-1 { 
-    background-color: violet; /* Green */
-    color: #ffffff;
+    color: #8e8484;
 }
 .bg-2 { 
     background-color: #474e5d; /* Dark Blue */
@@ -48,9 +47,9 @@ p {font-size: 16px;}
 .techstack li {
     list-style: none;
 }
-.tools {
+#tools {
     text-align: center;
-    background-color: grey;
+    color: #8e8484;
 }
 .tools li {
     list-style: none;
