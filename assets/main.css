@@ -9,16 +9,13 @@ p {font-size: 16px;}
     color: #8e8484;
 }
 .bg-2 { 
-    background-color: #474e5d; /* Dark Blue */
-    color: #ffffff;
+    color: #8e8484;
 }
 .bg-3 { 
-    background-color: #ffffff; /* White */
-    color: #555555;
+    color: #8e8484;
 }
 .bg-4 { 
-    background-color: lavenderblush; /* Black Gray */
-    color: #fff;
+    color: #8e8484;
 }
 .container-fluid {
     padding-top: 70px;
@@ -53,7 +50,7 @@ p {font-size: 16px;}
 }
 .tools li {
     list-style: none;
-    color: black;
+    color: #8e8484;
 }
 .panel-heading {
     margin-left: -15px;
