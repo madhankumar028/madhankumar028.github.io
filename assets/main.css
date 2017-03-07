@@ -64,3 +64,6 @@ p {font-size: 16px;}
 .pet:hover {
     background-color: lightgrey;
 }
+.pet img {
+    width: 100px;
+}
