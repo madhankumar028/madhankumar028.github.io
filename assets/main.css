@@ -40,7 +40,6 @@ p { font-size: 16px; }
 }
 
 .navbar {
-    background-color: grey;
     padding-top: 15px;
     padding-bottom: 15px;
     border: 0;
@@ -54,13 +53,12 @@ p { font-size: 16px; }
 
 .navbar a:hover {
     margin: 0px;
-    color: skyblue !important;
     text-decoration: none;
 }
 
-.navbar-nav  li a:hover { color: skyblue !important; }
+.navbar-nav  li a:hover { border-bottom: solid 2px grey; }
 
-.navbar-default .navbar-nav>li>a{ color: #fff; }
+.navbar-default .navbar-nav>li>a{ color: grey; }
 
 .progress { width: 500px; }
 
@@ -80,6 +78,8 @@ p { font-size: 16px; }
     border-radius: 50%;
 }
 
+.social a { transition: all .5s ease; }
+
 .social a:hover {
     -webkit-transform: scale(1.3);
     transform: scale(1.3);
@@ -87,6 +87,7 @@ p { font-size: 16px; }
 
 .projects:hover > .pet {
     filter: grayscale(100%);
+    transition: all .5s ease;
     opacity: 0.3;
 }
 
