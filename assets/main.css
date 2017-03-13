@@ -58,7 +58,11 @@ p { font-size: 16px; }
 
 .navbar-nav  li a:hover { border-bottom: solid 2px grey; }
 
-.navbar-default .navbar-nav>li>a{ color: grey; }
+.navbar-default .navbar-nav>li>a{ 
+    color: grey;
+    font-size: 12px;
+    font-family: sans-serif;
+}
 
 .progress { width: 500px; }
 
@@ -120,4 +124,4 @@ footer span{ color: #8e8484; }
     color: #8e8484;
 }
 
-.copyrights i { color: red; }
+.copyrights i { color: rose; }
