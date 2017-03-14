@@ -35,8 +35,8 @@ p { font-size: 16px; }
 .bg-4 { color: lightgray; }
 
 .container-fluid {
-    padding-top: 70px;
-    padding-bottom: 70px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .navbar {
@@ -117,6 +117,19 @@ p { font-size: 16px; }
     text-decoration: none;
 }
 
+.more { margin-top: 20px; }
+
+.other { 
+    border-radius: 25px;
+    width: 150px;
+}
+
+#skills { margin-top: 5px; }
+
+@media (min-width: 600px) {
+    .jargon { margin-left: 370px; }
+}
+
 footer span{ color: #8e8484; }
 
 .copyrights {
@@ -124,4 +137,4 @@ footer span{ color: #8e8484; }
     color: #8e8484;
 }
 
-.copyrights i { color: rose; }
+.copyrights i { color: red; }
