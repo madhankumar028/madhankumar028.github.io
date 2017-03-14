@@ -87,6 +87,7 @@ p {
     display: block;
     margin-right: 0px;
 }
+
 nav {
     padding: 10px 0;
 }
@@ -122,32 +123,7 @@ nav {
     transition: all 0.3s ease-out;
 }
 
-.navbar {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border: 0;
-    border-radius: 0;
-    margin-bottom: 0;
-    font-size: 12px;
-    letter-spacing: 5px;
-    background: #2C3E50;
-}
-
-.navbar img { width: 50px; }
-
-.navbar a:hover {
-    margin: 0px;
-    text-decoration: none;
-}
-
-.navbar-nav  li a:hover { border-bottom: solid 2px grey; }
-
-.navbar-default .navbar-nav>li>a{ 
-    color: grey;
-    font-size: 12px;
-    font-family: sans-serif;
-}
-
+.nav-links a:hover { border-bottom: 1px solid red; }
 .progress { width: 500px; }
 
 .techstack li { list-style: none; }
