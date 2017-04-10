@@ -181,6 +181,10 @@ nav {
 
 #skills { margin-top: 5px; }
 
+.jargon {
+  padding-left: 55px;
+}
+
 @media (min-width: 600px) {
     .jargon { margin-left: 370px; }
 }
@@ -190,6 +194,7 @@ footer span{ color: #8e8484; }
 .copyrights {
     margin-top: 30px;
     color: #8e8484;
+    padding-right: 15px;
 }
 
 .copyrights i { color: red; }
