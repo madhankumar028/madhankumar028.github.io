@@ -12,7 +12,7 @@ module.exports = [{
       options: {"plugins":[],"trackingIds":[""],"pluginConfig":{"head":true}},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Blog by Madhan","short_name":"Blog by Madhan","start_url":"/","background_color":"#FFF","theme_color":"#F7A046","display":"standalone","icon":"static/photo.jpg"},
+      options: {"plugins":[],"name":"Blog by Madhan","short_name":"Blog by Madhan","start_url":"/","background_color":"#FFF","theme_color":"#F7A046","display":"standalone","icon":"static/me.jpg"},
     },{
       plugin: require('../node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
