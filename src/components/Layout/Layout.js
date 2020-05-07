@@ -42,12 +42,12 @@ const Layout = ({
 
     setTheme(theme === 'light' ? 'dark' : 'light')
 
-    if (theme === "dark") {
-      setStyles(body, {"--background": "#FBFFF1", "--text": "#3C3744", "--accent": "#F49F6E"});
-      element.classList.remove(`${styles.clicked}`);
-    } else {
+    if (theme === "light") {
       setStyles(body, {"--background": "#3C3744", "--text": "#FBFFF1", "--accent": "#C41E3D"});
       element.classList.add(`${styles.clicked}`);
+    } else {
+      setStyles(body, {"--background": "#FBFFF1", "--text": "#3C3744", "--accent": "#F49F6E"});
+      element.classList.remove(`${styles.clicked}`);
     }
   }
 
