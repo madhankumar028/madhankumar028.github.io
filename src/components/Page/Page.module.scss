@@ -3,7 +3,7 @@
 
 .page {
   @include margin-bottom(2);
-
+  min-height: 100vh;
   &__inner {
     padding: 25px 20px;
   }
