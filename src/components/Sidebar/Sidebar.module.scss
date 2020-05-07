@@ -3,7 +3,6 @@
 
 .sidebar {
   width: 100%;
-  min-height: 100vh;
   @include breakpoint-md {
     position: sticky;
     height: 100vh;
