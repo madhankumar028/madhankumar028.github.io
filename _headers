@@ -7,11 +7,11 @@
   Referrer-Policy: same-origin
 /component---cache-caches-gatsby-plugin-offline-app-shell-js-b7e43e798a08777ea067.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.30e762ecfc00523cdb9b.css
+/styles.58d16517a6251210a4fd.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-083a06cb5740baaf347d.js
   Cache-Control: public, max-age=31536000, immutable
-/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js
+/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-not-found-template-js-f70e1415fd44c976deec.js
   Cache-Control: public, max-age=31536000, immutable
@@ -21,11 +21,11 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-categories-list-template-js-c783365a494b8524316b.js
   Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-715a9bc40e42124d22e2.js
+  Cache-Control: public, max-age=31536000, immutable
 /d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-post-template-js-5155c837736dacdb3dbe.js
-  Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-page-template-js-715a9bc40e42124d22e2.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-tag-template-js-0332db0fd278b95f1d41.js
   Cache-Control: public, max-age=31536000, immutable
@@ -33,344 +33,213 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-index-template-js-d212257827f443d2a690.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-066e985d368e1aeae1a5.js
+/webpack-runtime-cb5ff020e60f9103385e.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-88c48abae272a3bc68e7.js
   Cache-Control: public, max-age=31536000, immutable
 /532a2f07-24b41809a8ea87955a35.js
   Cache-Control: public, max-age=31536000, immutable
-/app-62de8b5a62852d5596c1.js
+/app-f07362affb3e6ec2dea2.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
 /madhankumar028.github.io/offline-plugin-app-shell-fallback/
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---cache-caches-gatsby-plugin-offline-app-shell-js-b7e43e798a08777ea067.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </madhankumar028.github.io/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
 /madhankumar028.github.io/404
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-not-found-template-js-f70e1415fd44c976deec.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </madhankumar028.github.io/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /madhankumar028.github.io/tags
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/781bee6b07be78d7f9cf20492a3b6b7c694ca545-38ef03d458ca33f197c9.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-tags-list-template-js-fd40d8a372e33a5a76e1.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </madhankumar028.github.io/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
 /madhankumar028.github.io/categories
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/781bee6b07be78d7f9cf20492a3b6b7c694ca545-38ef03d458ca33f197c9.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-categories-list-template-js-c783365a494b8524316b.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </madhankumar028.github.io/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
 /madhankumar028.github.io/404.html
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-not-found-template-js-f70e1415fd44c976deec.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </madhankumar028.github.io/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/posts/a-brief-history-of-typography
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/posts/perfecting-the-art-of-perfection
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/posts/the-origins-of-social-stationery-lettering
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/posts/the-birth-of-movable-type
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/posts/the-birth-of-movable-type/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/posts/humane-typography-in-the-digital-age
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/pages/contacts/
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-page-template-js-715a9bc40e42124d22e2.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
 /madhankumar028.github.io/pages/about/
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-page-template-js-715a9bc40e42124d22e2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </madhankumar028.github.io/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/design
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+/madhankumar028.github.io/posts/Framework to guide a Mentee.
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </madhankumar028.github.io/page-data/posts/Framework to guide a Mentee./page-data.json>; rel=preload; as=fetch; crossorigin
+/madhankumar028.github.io/posts/Good Qualities of a Programer.
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </madhankumar028.github.io/page-data/posts/Good Qualities of a Programer./page-data.json>; rel=preload; as=fetch; crossorigin
+/madhankumar028.github.io/tag/art-of-teaching
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/design/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/gatsby
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/page-data/tag/art-of-teaching/page-data.json>; rel=preload; as=fetch; crossorigin
+/madhankumar028.github.io/tag/learning-in-depth
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/gatsby/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/handwriting
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/page-data/tag/learning-in-depth/page-data.json>; rel=preload; as=fetch; crossorigin
+/madhankumar028.github.io/tag/mentoring
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/handwriting/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/helvetica
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/page-data/tag/mentoring/page-data.json>; rel=preload; as=fetch; crossorigin
+/madhankumar028.github.io/tag/programming-traits
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/helvetica/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/history-of-typography
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/page-data/tag/programming-traits/page-data.json>; rel=preload; as=fetch; crossorigin
+/madhankumar028.github.io/tag/skills
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/learning-to-write
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/page-data/tag/skills/page-data.json>; rel=preload; as=fetch; crossorigin
+/madhankumar028.github.io/tag/teaching
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/learning-to-write/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/linotype
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/page-data/tag/teaching/page-data.json>; rel=preload; as=fetch; crossorigin
+/madhankumar028.github.io/category/programmer-traits
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/linotype/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/monotype
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/monotype/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/open-source
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/open-source/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/typography
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/tag/web-development
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-tag-template-js-0332db0fd278b95f1d41.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/tag/web-development/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/category/design-culture
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-category-template-js-b1318d3a521a8715ca54.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/category/design-culture/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/category/design-inspiration
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/page-data/category/programmer-traits/page-data.json>; rel=preload; as=fetch; crossorigin
+/madhankumar028.github.io/category/teaching-inspiration
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-category-template-js-b1318d3a521a8715ca54.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/category/design-inspiration/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/category/typography
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-category-template-js-b1318d3a521a8715ca54.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/category/typography/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </madhankumar028.github.io/page-data/category/teaching-inspiration/page-data.json>; rel=preload; as=fetch; crossorigin
 /madhankumar028.github.io/
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/webpack-runtime-cb5ff020e60f9103385e.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/app-f07362affb3e6ec2dea2.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
+  Link: </madhankumar028.github.io/61a99217af7f1d1eebec238e78e684e1bdbe6200-ac1111fe78267a72e618.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/component---src-templates-index-template-js-d212257827f443d2a690.js>; rel=preload; as=script
   Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </madhankumar028.github.io/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
-/madhankumar028.github.io/page/1
-  Link: </madhankumar028.github.io/webpack-runtime-066e985d368e1aeae1a5.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/app-62de8b5a62852d5596c1.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/9f51d0540ff428d377f06ef4930cdc7caed260db-6905a3886313d01aa5a9.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/component---src-templates-index-template-js-d212257827f443d2a690.js>; rel=preload; as=script
-  Link: </madhankumar028.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </madhankumar028.github.io/page-data/page/1/page-data.json>; rel=preload; as=fetch; crossorigin
