@@ -8,6 +8,6 @@ I'm a Frontend developer. I have built web experiences for industries like Media
 
 ![](/media/about_me_cover.jpg)
 
-With the web industry constantly evolving, I am passionate about curating new technologies and frameworks to make it easier for developers to decide what best fits their needs.
+With the web industry constantly evolving, I am passionate about creating curated content based on new technologies and frameworks to make it easier for developers to decide what best fits their needs.
 
-On this blog I write about the lessons I learn in my daily life, mostly with JavaScript, React, Angular, CSS, Dev experience, and anything else front-end related.
+On this blog I write about the lessons I learn in my daily life, mostly with JavaScript tricks, React, Angular, CSS, Dev experience, and anything else front-end related.

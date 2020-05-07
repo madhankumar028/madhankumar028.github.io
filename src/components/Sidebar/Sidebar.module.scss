@@ -2,10 +2,12 @@
 @import "../../assets/scss/mixins";
 
 .sidebar {
-	width: 100%;
-	position: sticky;
-	height: 100vh;
-	top: 0;
+  width: 100%;
+  @include breakpoint-md {
+    position: sticky;
+    height: 100vh;
+    top: 0;
+  }
   &__inner {
     position: relative;
     padding: 25px 20px 0;
