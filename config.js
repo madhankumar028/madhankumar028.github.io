@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://madhankumar028.github.io',
   pathPrefix: 'madhankumar028.github.io',
-  title: 'Blog by Madhan',
+  title: 'Madhan',
   subtitle: `
     Hi 👋 my name is Madhan (he/him). I\'/m a Frontend developer.
     I have built web experiences for companies including Lenovo, Novopay,
