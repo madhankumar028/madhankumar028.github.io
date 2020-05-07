@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: '',
-  pathPrefix: '/',
+  url: 'https://madhankumar028.github.io',
+  pathPrefix: 'madhankumar028.github.io',
   title: 'Blog by Madhan',
   subtitle: `
     Hi 👋 my name is Madhan (he/him). I\'/m a Frontend developer.
@@ -16,18 +16,10 @@ module.exports = {
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
-    // {
-    //   label: 'Articles',
-    //   path: '/'
-    // },
     {
       label: 'About me',
       path: '/pages/about'
     },
-    // {
-    //   label: 'Contact me',
-    //   path: '/pages/contacts'
-    // }
   ],
   author: {
     name: 'Madhankumar',
