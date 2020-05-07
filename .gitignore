@@ -1,6 +1,6 @@
-node_modules/
+node_modules
+public
 .cache/
-public/
 npm-debug.log
 .eslintcache
 .gatsby-context.js
