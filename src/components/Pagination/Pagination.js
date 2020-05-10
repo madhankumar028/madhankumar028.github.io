@@ -33,7 +33,7 @@ const Pagination = ({
   return (
     <div className={styles['pagination']}>
       {
-        hasNextPage
+        (hasNextPage || hasPrevPage)
           && (
             <>
               <div className={styles['pagination__prev']}>
