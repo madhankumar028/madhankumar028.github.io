@@ -13,7 +13,7 @@ module.exports = {
   copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-166047794-1',
   useKatex: false,
   menu: [
     {
