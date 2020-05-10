@@ -2,6 +2,9 @@
 @import '../../assets/scss/mixins';
 
 .post {
+  @include breakpoint-md {
+    margin: 0 auto;
+  }
   &__footer {
     max-width: $layout-post-width;
     margin: 0 auto;

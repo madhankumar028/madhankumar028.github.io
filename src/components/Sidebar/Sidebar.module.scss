@@ -5,6 +5,11 @@
   width: 100%;
   @include breakpoint-md {
     position: sticky;
+    top: 0;
+    align-self: start;
+  }
+  @include breakpoint-md {
+    position: sticky;
     height: 100vh;
     top: 0;
   }
