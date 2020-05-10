@@ -6,6 +6,9 @@ socialImage: "/media/about_me_cover.jpg"
 
 I'm a Frontend developer. I have built web experiences for industries like Media, IoT, Payments. Logistics using a broad range of technologies, most notably JavaScript, Angular, React, Redux, CSS.
 
+Recently I joined Lifepal Jakarta, Indonesia. My contribution is to their core insurance e-commerce product to help millions of
+Indonesians to buy their insurance with good web experience.
+
 ![](/media/about_me_cover.jpg)
 
 With the web industry constantly evolving, I am passionate about creating curated content based on new technologies and frameworks to make it easier for developers to decide what best fits their needs.
