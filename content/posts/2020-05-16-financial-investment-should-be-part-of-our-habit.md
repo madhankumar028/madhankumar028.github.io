@@ -1,7 +1,7 @@
 ---
 title: "Financial savings should be part of your habit"
 date: "2020-05-16T11:57:00.00Z"
-slug: financial_savings_should_be_part_of_your__habit.
+slug: financial_savings_should_be_part_of_your__habit
 template: "post"
 draft: false
 category: "Finances"
