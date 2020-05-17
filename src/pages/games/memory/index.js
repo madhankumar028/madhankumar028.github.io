@@ -54,12 +54,15 @@ export const MemoryGame = () => {
 				switchMap(showSequenceToMemorize$(memorySize))
 			);
 
-	const elementClick$ = (event, color) =>
-		fromEvent(document.getElementsByClassName('child'), event)
-			.pipe(
-				pluck('srcElement'),
-				tap((e) => e.style.background = color)
-			);
+	const elementClick$ = (event, color) =>{
+		if (typeof window !== `undefined`) {
+			return fromEvent(document.getElementsByClassName('child'), event)
+				.pipe(
+					pluck('srcElement'),
+					tap((e) => e.style.background = color)
+				);
+		}
+	}
 
 	const clicks$ = merge(
 		elementClick$('click', 'lightgray'),
