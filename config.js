@@ -24,6 +24,10 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
+    {
+      label: 'Kill the boredom',
+      path: '/games/memory'
+    }
   ],
   author: {
     name: 'Madhankumar',
