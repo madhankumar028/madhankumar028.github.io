@@ -1,7 +1,7 @@
 ---
-title: Passion is built not found.
+title: Passion is built not found
 date: "2020-09-19T23:46:37.121Z"
-slug: Passion is built not found.
+slug: Passion is built not found
 template: "post"
 draft: false
 category: "Personal"
