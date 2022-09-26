@@ -29,5 +29,4 @@ best practices including the use of pattern libraries.
 On a team, I tend to help bring out a clearer sense of purpose and encourage more transparent
 communication, resulting in better team results and a higher sense of satisfaction for all involved.
 
-Let’s talk about how I could put my eye for detail, the practice of web standards, and communication
-skills to work for Solarize. Thanks for your consideration.
+Let’s talk about how I could put my eye for detail, the practice of web standards. Reach me at madhankumar028@gmail.com!
