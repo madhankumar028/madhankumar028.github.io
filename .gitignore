@@ -1,8 +1,37 @@
 node_modules
-public
-.cache/
-npm-debug.log
-.eslintcache
-.gatsby-context.js
+.next
+.turbo
+.vercel
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS / Editor
+.DS_Store
+*.swp
+*.swo
 .idea
-gatsby-starter-lumen.iml
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Env / local config
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Misc
+coverage
+dist
+out
+.eslintcache
+.stylelintcache
+.next-standalone
