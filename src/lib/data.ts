@@ -7,6 +7,7 @@ export const siteConfig = {
   email: "madhankumar028@gmail.com",
   github: "https://github.com/madhankumar028",
   linkedin: "https://linkedin.com/in/madddymadhan",
+  medium: "https://medium.com/@madhankumar028",
   twitter: "",
 };
 
