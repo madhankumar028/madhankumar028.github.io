@@ -79,11 +79,11 @@ export const experience = [
 
 export const projects = [
   {
-    name: "yourtools.dev",
+    name: "YourToolsKit",
     description:
       "A multi-tool developer utility site. Features a PDF editor (annotate, merge, split, form-fill) built with pdf-lib, pdfjs-dist, and fabric.js — with more tools added regularly.",
     tech: ["React", "Next.js", "pdf-lib", "pdfjs-dist", "fabric.js"],
-    url: "https://yourtools.dev",
+    url: "https://yourtoolskit.com",
     github: "",
     featured: true,
     status: "Live",
