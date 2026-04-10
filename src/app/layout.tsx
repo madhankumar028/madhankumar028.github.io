@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Script from 'next/script'
+import { Suspense } from 'react'
 import './globals.css'
 import { siteConfig } from '@/lib/data'
 import { GoogleAnalyticsPageView } from '../components/google-analytics-pageview'
@@ -44,7 +45,9 @@ gtag('js', new Date());
 gtag('config', '${gaMeasurementId}', { send_page_view: false });
               `}
             </Script>
-            <GoogleAnalyticsPageView measurementId={gaMeasurementId} />
+            <Suspense fallback={null}>
+              <GoogleAnalyticsPageView measurementId={gaMeasurementId} />
+            </Suspense>
           </>
         ) : null}
         <div className="orb orb-1" />
