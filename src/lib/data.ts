@@ -101,11 +101,11 @@ export const projects = [
 ];
 
 export const toolsSpotlight = {
-  name: "yourtools.dev",
+  name: "YourToolsKit",
   tagline: "A growing collection of developer & productivity tools.",
   description:
     "Built to scratch my own itch — useful tools that work entirely in the browser, no sign-up required. PDF editing, merging, splitting, and more on the way.",
-  url: "https://yourtools.dev",
+  url: "yourtoolskit.com",
   tools: [
     { name: "PDF Editor", desc: "Annotate, merge, split, and fill PDF forms in-browser." },
     { name: "More coming soon", desc: "New tools added regularly." },
