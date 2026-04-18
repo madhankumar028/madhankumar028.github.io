@@ -79,24 +79,25 @@ export const experience = [
 
 export const projects = [
   {
-    name: "YourToolsKit",
+    name: "DevLog",
     description:
-      "A multi-tool developer utility site. Features a PDF editor (annotate, merge, split, form-fill) built with pdf-lib, pdfjs-dist, and fabric.js — with more tools added regularly.",
-    tech: ["React", "Next.js", "pdf-lib", "pdfjs-dist", "fabric.js"],
-    url: "https://yourtoolskit.com",
+      "VS Code extension that passively captures coding activity and synthesises daily engineering journals via Groq/LLaMA. Runs six commands from the Command Palette — Synthesize Now, Past Date, Show Today's Log, Generate Standup, Performance Review, and Status. Bootstraps from 90 days of git history on first run. 500+ installs on the VS Code Marketplace.",
+    tech: ["VS Code API", "TypeScript", "Groq", "LLaMA", "JSONL", "Open VSX"],
+    url: "https://marketplace.visualstudio.com/items?itemName=devlog.devlog",
     github: "",
+    docs: "https://devlog-web-black.vercel.app/",
     featured: true,
     status: "Live",
   },
   {
-    name: "QA Chrome Extension",
+    name: "YourToolsKit",
     description:
-      "Manifest V3 Chrome extension for QA workflows. Records manual testing sessions and generates Playwright or Cypress test scripts with smart selector priority engine and SPA support.",
-    tech: ["Chrome Extension MV3", "Playwright", "Cypress", "MutationObserver", "JavaScript"],
-    url: "",
-    github: "https://github.com/madhankumar028",
+      "A growing collection of free browser-based tools — CA/tax calculators, diff checker, HRA calculator, and two AI agents (My Accountant and My Fitness Coach) powered by Groq/LLaMA. No sign-up required.",
+    tech: ["Next.js", "Groq", "LLaMA", "TypeScript", "Tailwind CSS"],
+    url: "https://yourtoolskit.com",
+    github: "",
     featured: true,
-    status: "In Progress",
+    status: "Live",
   },
 ];
 
